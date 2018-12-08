@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class SortDemo {
   public static void main(String argv[]) {
     // String args to int
@@ -7,6 +9,7 @@ public class SortDemo {
     }
 
     // Sort
+    Arrays.sort(data);
 
     // Print the result
     for(int i = 0; i < argv.length; i++) {
