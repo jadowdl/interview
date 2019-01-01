@@ -1,0 +1,2 @@
+# interview
+This was code created on demand for an interview I gave at https://shengmengedu.com/, exploring a very basic concept - sorting arrays in Java.  I walked the staff through the lesson I would have taught students, complete with uploading code to github so that they could download it (presumably basic code reviews would also be a part of the curriculum and course practice).  I am now a moonlighting part-time instructor for middle and high school students at Sheng Meng.
